@@ -15,7 +15,7 @@
 from setuptools import setup
 
 setup(
-   name='shared',
+   name='foobar',
    version='1.0',
    description='Shared functions for the Four Keys pipeline',
    url='git@github.com:four-keys-playground.git#egg=shared&subdirectory=shared',
