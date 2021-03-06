@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: four-keys
+  description: This is a starter app for a four keys project
+  annotations:
+    github.com/project-slug: samwiskow/fourkeys
+spec:
+  type: service
+  lifecycle: experimental
+  owner: samwiskow
